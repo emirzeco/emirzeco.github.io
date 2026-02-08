@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage of Emir Zecovic"
+title                    : "Emir Zecovic"
 title_separator          : "-"
 name                     : &name "Emir Zecovic"
-description              : &description "Sociologist"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Junior Researcher (PhD student)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://emirzeco.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,8 +23,8 @@ repository               : "emirzeco/emirzeco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Emir Zecovic"
+  avatar           : "emir_zeco_profile.jpg"
+  name             : #"Emir Zecovic"
   pronouns         : # example: "she/her"  
   bio              : "Junior Researcher (PhD student) at the Federal Institute for Population Research (BiB)"
   location         : "Wiesbaden, DE"
@@ -53,31 +53,22 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
   flickr           : # Username
-  foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
   twitter          : # Username for X / Twitter
-  vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
