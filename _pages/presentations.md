@@ -7,7 +7,7 @@ Upcoming Talks
 ------
 
 
-Past Talks (Selection)
+Past Talks
 ------
 
  
