@@ -5,9 +5,9 @@ permalink: /presentations/
 
 Upcoming Talks
 ------
-TBa
+
 
 Past Talks (Selection)
 ------
-TBa
+
  
