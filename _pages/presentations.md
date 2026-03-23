@@ -1,5 +1,5 @@
 ---
-title: "Selected Presentations"
+title: "Presentations"
 permalink: /presentations/
 ---
 
