@@ -27,4 +27,4 @@ Education
 
 Full CV
 ------
-<iframe src="/files/CV_Zecovic.pdf" width="900%" height="700"></iframe>
+<iframe src="/files/CV_Zecovic.pdf" width="900" height="700"></iframe>
