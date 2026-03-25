@@ -12,9 +12,9 @@ Professional Experience
 
 | Period               | Position                             | Institution                                                                                                             |
 |----------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Oct 2025 – present   | Junior Researcher (PhD student)     | Federal Institute for Population Research, Wiesbaden                                                                     |
-| Apr 2022 – Sep 2025  | Student assistant                    | Goethe University Frankfurt am Main                                                                                     | 
-| Jun 2023 - Jun 2023  | Teaching                             | Center for Methods in the Social Sciences, Goethe University Frankfurt am Main                                       |
+| Oct 2025 – present   | Junior Researcher (PhD student)      | Federal Institute for Population Research, Wiesbaden                                                                    |
+| Apr 2022 – Sep 2025  | Student assistant                    | ERC-funded research project POLAR, Goethe University Frankfurt am Main                                                  | 
+| Jun 2023 - Jun 2023  | Teaching                             | Center for Methods in the Social Sciences, Goethe University Frankfurt am Main                                          |
 | Oct 2022 – Jul 2023  | Student assistant                    | Institute of Sociology, Goethe University Frankfurt am Main                                                             |
 
 Education
