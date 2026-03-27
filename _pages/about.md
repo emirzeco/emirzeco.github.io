@@ -13,6 +13,8 @@ I am a first-year PhD student. My work started on October 1, 2025, at the [Feder
 
 I hold a master's degree in sociology from the Goethe University Frankfurt, and a bachelor's degree in sociology, also from the Goethe University Frankfurt. While pursuing my master's degree, I worked as a research assistant in the ERC-funded research project [POLAR](https://polar-project.org).
 
+On a personal note, I enjoy listening to music (especially hip-hop), going to concerts, supporting Arsenal F.C., and taking an interest in fashion.
+
 <!--
 In my free time, I love listening to music, especially hip-hop, R&B, and pop. I’m a big fan of Kendrick Lamar, The Weeknd, and Billie Eilish, and I've had the opportunity to see them live in concert. Outside of music, I enjoy playing video and parlor games, as well as watching football (supporting Arsenal F.C.) and Formula 1. I am also interested in politics and fashion.
 -->
