@@ -22,4 +22,8 @@ Bienstman, S., Zecovic, E. and Gangl, M. (2025). Income variables for the ISSP. 
 # Publications (work-in-progress)
 
 
-*Means-Tested Benefits and Relationship Satisfaction among Low-Income Couples in Germany* 
+*Means-Tested Benefits and Relationship Satisfaction among Low-Income Couple in the UK* 
+
+*In-Work Benefits and Labor Market Trajectories of Low-Income Recipients*
+
+*Do In-Work Benefits Reshape Household Employment Distribution? Gendered Effects among Primary and Secondary Earners*
